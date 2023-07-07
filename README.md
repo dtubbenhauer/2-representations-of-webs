@@ -1,7 +1,7 @@
 # Code and Erratum for *On rank one 2-representations of web categories*
 
 I collected a bit of Mathematica code relevant for the paper *On rank one 2-representations of web categories*
-<a href="https://arxiv.org/abs/2303.04264">https://arxiv.org/abs/2303.04264</a> on this page.
+<a href="https://arxiv.org/abs/2307.00785">https://arxiv.org/abs/2307.00785</a> on this page.
 
 The code is in a **.n** file that can be downloaded from this site and you can run it with Mathematica.
 
